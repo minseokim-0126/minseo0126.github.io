@@ -2,10 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "" # leave blank to use full name
+title: ""
 first_name: Minseo
 middle_name:
 last_name: Kim
+
+description: >
+  I am an undergraduate student in Materials Science and Engineering at KAIST.
+
+url: https://minseokim-0126.github.io
+baseurl: ""
 
 contact_note: >
   Feel free to reach out via email.
