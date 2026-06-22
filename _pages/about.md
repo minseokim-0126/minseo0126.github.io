@@ -2,33 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate Student in Materials Science and Engineering, KAIST
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Materials Science and Engineering</p>
+    <p>Korea Advanced Institute of Science and Technology (KAIST)</p>
+    <p>Daejeon, Republic of Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: false
+social: true
 ---
 
-I am an undergraduate student in Materials Science and Engineering at KAIST.
+Hello! I am **Minseo Kim**, an undergraduate student in the Department of Materials Science and Engineering at **KAIST**.
 
-My research interests focus on electrochemistry and battery materials, especially layered oxide cathodes, lattice oxygen redox, and interfacial degradation in rechargeable batteries.
+My research interests lie in **electrochemistry and battery materials**, especially **cathode materials for rechargeable batteries**. I am particularly interested in layered oxide cathodes, lattice oxygen redox, voltage hysteresis, and interfacial side reactions that affect the reversibility and stability of high-energy battery materials.
 
-I am currently working in the Computational Materials Design and Discovery Lab at KAIST under Prof. Donghwa Seo, studying the reversibility of oxygen redox in Na-ion battery cathode materials.
+I am currently conducting undergraduate research in the **Computational Materials Design and Discovery Lab (CMDD)** at KAIST under the supervision of **Prof. Donghwa Seo**. My current project focuses on understanding how electrolyte-driven interfacial degradation affects the reversibility of lattice oxygen redox in **P2-type Na<sub>0.6</sub>Li<sub>0.2</sub>Mn<sub>0.8</sub>O<sub>2</sub>** cathodes.
+
+Previously, I worked on electrochemical energy materials, including catalysts for PEM fuel cells, water electrolysis, and CO<sub>2</sub> electroreduction. These experiences led me to develop a broader interest in electrochemical materials and motivated my current focus on battery cathode research.
+
+I am also interested in applying computational and data-driven approaches, including basic molecular dynamics, density functional theory, and machine-learning-based materials analysis, to understand and design better energy materials.
